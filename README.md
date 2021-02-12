@@ -16,4 +16,5 @@
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-rodrigoleitearaujo777@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoleitearaujo777@gmail.com)](mailto:rodrigoleitearaujo777@gmail.com)
+<h3 align="left">🚀 Contact me</h3>
+<h3 align="left">📧 rodrigoleitearaujo777@gmail.com</h3>
