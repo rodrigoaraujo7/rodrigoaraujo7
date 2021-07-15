@@ -9,7 +9,7 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Scss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="right" alt="Gif" width="175" src="https://64.media.tumblr.com/2b3ccd7dea74db953fbea6c39aad87d8/2c572aa08263d397-35/s400x600/a68ba3eb997e45fc2a067f0bc49fb4124804eb63.gifv">
+  <img align="right" alt="Gif" width="200" src="https://media.tenor.com/images/aca0a435555fdbaa395d2ebdd8652740/tenor.gif">
 </div>
 
 <div><br>
