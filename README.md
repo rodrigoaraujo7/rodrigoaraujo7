@@ -13,7 +13,7 @@
   <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Photoshop" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   
-  <img align="right" alt="Gif" height="250" width="450" src="https://i.pinimg.com/originals/fe/7c/f8/fe7cf85130d8be56e5eedb8d63fda1da.gif">
+  <img align="right" alt="Gif" width="400" src="https://64.media.tumblr.com/2d6289ec789fbfccab5f3e9cdb6c2bf8/5432a68bb2a3dd24-9e/s540x810/8a22410092daf26e5b9c58c5035e91598dd3ee34.gifv">
 </div>
 
 <div style="display: inline_block"><br>
