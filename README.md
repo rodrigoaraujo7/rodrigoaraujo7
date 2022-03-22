@@ -3,27 +3,26 @@
 
 <div style="display: inline_block"><br>
   <h2 align="left">🐱‍👤 My skills</h2>
-  <img align="center" alt="Javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="ReactJS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Css3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Scss" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Less" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
-  <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Photoshop" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Scss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   
   <img align="right" alt="Gif" width="400" src="https://64.media.tumblr.com/2d6289ec789fbfccab5f3e9cdb6c2bf8/5432a68bb2a3dd24-9e/s540x810/8a22410092daf26e5b9c58c5035e91598dd3ee34.gifv">
 </div>
 
 <div style="display: inline_block"><br>
   <h2 align="left">🐱‍👓 I want to study</h2>
-  <img align="center" alt="Elixir" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
-  <img align="center" alt="Deno" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Firebase" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Graphql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Redux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Deno" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 </div>
 
 <div><br>
