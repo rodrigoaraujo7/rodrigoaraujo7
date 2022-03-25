@@ -1,5 +1,5 @@
-<h2 align="left">🚀 Hi there! My name is <strong>Rodrigo</strong></h2>
-🔭 I'm a front-end web developer.
+<h2 align="left">👋 Hi there! My name is <strong>Rodrigo</strong></h2>
+🚀 My learning is based on creating projects and I also intend to contribute to the open source community.
 
 <div style="display: inline_block"><br>
   <h2 align="left">🐱‍👤 My skills</h2>
