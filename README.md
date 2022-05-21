@@ -26,7 +26,7 @@
   <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   
-  <img align="right" alt="Gif" width="400" src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-do-madara-1.gif">
+  <img align="right" alt="Gif" width="400" src="https://64.media.tumblr.com/0f33bdf717c86fd8429668976af83cb2/b6a9c55fed0f737a-9e/s640x960/332a5d54afda6c772883176bdaa289c3d29967e9.gif">
 </div>
 
 <div style="display: inline_block"><br>
