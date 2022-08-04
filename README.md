@@ -10,7 +10,7 @@
 
 - 🎯 Marketing assistant in my TCC group
 
-- 📫 How to reach me: rodrigoleitearaujo777@gmail.com
+- 📫 How to reach me: dev.rodrigoaraujo@gmail.com
 
 - 📚 Fun fact: Fun fact: My favorite hobby is watching anime and reading Japanese comics.
 
