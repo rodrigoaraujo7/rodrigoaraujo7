@@ -5,7 +5,7 @@
 
 <h2 align="left">👋 Hi there! My name is <strong>Rodrigo</strong></h2>
 
-- 💻 React developer at <a href="https://myleads.com.br/" target="_blank">MyLeads</a>
+- 💻 React and Java developer
 
 - 📫 How to reach me: dev.rodrigoaraujo@gmail.com
 
