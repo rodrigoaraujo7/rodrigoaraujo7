@@ -13,10 +13,12 @@ Front-end developer with 2+ years of experience, passionate about building intui
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-ShadcnUI-000000?style=flat&logo=vercel&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-8D8D8D?style=flat&logo=zotero&logoColor=white)
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-311C87?style=flat&logo=apollo-graphql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -24,6 +26,7 @@ Front-end developer with 2+ years of experience, passionate about building intui
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3A3A3A?style=flat&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+
 
 <!-- Backend -->
 ![Java](https://img.shields.io/badge/-Java-DD1B16?style=flat&logo=java&logoColor=white)
