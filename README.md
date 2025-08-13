@@ -1,6 +1,7 @@
 ### Hey! 👋
 
-I'm Front-end developer with 2+ years of experience, passionate about building intuitive interfaces and enhancing user experience. <br />
+I'm a Front-end developer with 2+ years of experience, passionate about building intuitive interfaces and enhancing user experience. 
+
 I thrive in collaborative environments, adapt quickly to new technologies, and value constructive feedback as a way to grow and deliver better solutions.
 
 📍 Based in Blumenau, Santa Catarina, Brazil<br>
