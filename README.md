@@ -1,6 +1,7 @@
-### Hey, I'm Rodrigo! 👋
+### Hey! 👋
 
-Front-end developer with 2+ years of experience, passionate about building intuitive interfaces and enhancing user experience.
+I'm Front-end developer with 2+ years of experience, passionate about building intuitive interfaces and enhancing user experience. <br />
+I thrive in collaborative environments, adapt quickly to new technologies, and value constructive feedback as a way to grow and deliver better solutions.
 
 📍 Based in Blumenau, Santa Catarina, Brazil<br>
 📫 You can reach me on [LinkedIn](https://linkedin.com/in/rodrigoleitearaujo) or via [email](mailto:dev.rodrigoaraujo@gmail.com)
@@ -24,9 +25,9 @@ Front-end developer with 2+ years of experience, passionate about building intui
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router%20DOM-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3A3A3A?style=flat&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-
 
 <!-- Backend -->
 ![Java](https://img.shields.io/badge/-Java-DD1B16?style=flat&logo=java&logoColor=white)
@@ -34,6 +35,6 @@ Front-end developer with 2+ years of experience, passionate about building intui
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
