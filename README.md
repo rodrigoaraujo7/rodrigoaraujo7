@@ -1,10 +1,10 @@
 ### Hey! 👋
 
-I'm a Front-end developer with 2+ years of experience, passionate about building intuitive interfaces and enhancing user experience. 
+I'm a Full Stack Developer with solid experience building mobile and web applications, passionate about creating intuitive interfaces and enhancing user experience. 
 
-I thrive in collaborative environments, adapt quickly to new technologies, and value constructive feedback as a way to grow and deliver better solutions.
+I thrive in collaborative environments, adapt quickly to new technologies, and value constructive feedback as a way to to continuously grow and deliver high-quality solutions.
 
-📍 Based in Blumenau, Santa Catarina, Brazil<br>
+📍 Based in Blumenau, Santa Catarina, Brazil  
 📫 You can reach me on [LinkedIn](https://linkedin.com/in/rodrigoleitearaujo) or via [email](mailto:dev.rodrigoaraujo@gmail.com)
 
 ### Technologies
@@ -37,6 +37,8 @@ I thrive in collaborative environments, adapt quickly to new technologies, and v
 ![Java](https://img.shields.io/badge/-Java-DD1B16?style=flat&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
